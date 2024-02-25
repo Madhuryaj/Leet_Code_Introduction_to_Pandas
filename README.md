@@ -1,2 +1,3 @@
-# Leet_Code_Introduction_to_Pandas
-Leet_Code_Introduction_to_Pandas
+# Leet Code Problems - Introduction to Pandas
+
+Trying to learn and solve the leet code problems
